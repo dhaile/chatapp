@@ -18,6 +18,9 @@
   "homepage": "https://github.com/dhaile/chatapp#readme",
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "express": "^4.14.0"
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "requirejs": "^2.3.2"
   }
 }
